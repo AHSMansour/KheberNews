@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "871876811825",
+    "firebase_url": "https://khaber-d07e6.firebaseio.com",
+    "project_id": "khaber-d07e6",
+    "storage_bucket": "khaber-d07e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871876811825:android:fdf795dc6d1c7c88650910",
+        "android_client_info": {
+          "package_name": "com.abomansour.khabar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871876811825-oqvo085eeo6rtha9tatejukls73mu1do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abomansour.khabar",
+            "certificate_hash": "cd8b65b5fa668a7d2e26bfc0bd652fc6b116a399"
+          }
+        },
+        {
+          "client_id": "871876811825-3aampkt84m99s1sgnqtvpb7e0b2vjmqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2memWCCaxq5JvMfqd1QsA056k5s8vtEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871876811825-3aampkt84m99s1sgnqtvpb7e0b2vjmqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name='KhaberNews'
+include ':app'
